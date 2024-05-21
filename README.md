@@ -1,7 +1,3 @@
-Certainly! Here is the updated README with the requested modifications:
-
----
-
 # Assembly
 
 Welcome to the Assembly repository! This project is dedicated to exploring, understanding, and implementing various concepts and programs in Assembly language.
@@ -84,7 +80,7 @@ Before you start, ensure you have the following tools installed on your system:
 
 This repository includes various examples demonstrating different aspects of Assembly programming:
 
-- **Hello World:** A simple program that prints "Hello, World!" to the console.
+- **Binary Shifts:** A simple program that shifts binary from left or right.
 - **Arithmetic Operations:** Examples of basic arithmetic operations (addition, subtraction, multiplication, division).
 - **Loops and Conditionals:** Implementation of loops and conditional statements.
 - **System Calls:** Using system calls for input/output operations.
