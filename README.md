@@ -1,3 +1,7 @@
+Certainly! Here is the updated README with the requested modifications:
+
+---
+
 # Assembly
 
 Welcome to the Assembly repository! This project is dedicated to exploring, understanding, and implementing various concepts and programs in Assembly language.
@@ -11,6 +15,7 @@ Welcome to the Assembly repository! This project is dedicated to exploring, unde
 - [Usage](#usage)
   - [Running the Code](#running-the-code)
 - [Examples](#examples)
+- [Directory Structure](#directory-structure)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -86,6 +91,45 @@ This repository includes various examples demonstrating different aspects of Ass
 
 Each example is located in its respective directory with detailed comments explaining the code.
 
+## Directory Structure
+
+The repository is organized into the following directories and files:
+
+```
+Assembly/
+├── C/
+│   ├── addC.s
+│   ├── callC.s
+│   ├── example.c
+│   ├── exit
+│   └── exit.o
+├── Code/
+│   ├── add.s
+│   ├── and.s
+│   ├── char.s
+│   ├── data.s
+│   ├── div.s
+│   ├── exit
+│   ├── exit.o
+│   ├── float.s
+│   ├── func.s
+│   ├── funcArgs.s
+│   ├── less.s
+│   ├── list.s
+│   ├── loop.s
+│   ├── mul.s
+│   ├── not.s
+│   ├── or.s
+│   ├── shiftLeft.s
+│   ├── shiftRight.s
+│   ├── smallData.s
+│   ├── string.s
+│   ├── sub.s
+│   ├── uninit.s
+│   └── xor.s
+└── README.md
+```
+
 ## Contributing
 
 Contributions are welcome! If you have any improvements or new examples to add, please follow these steps:
@@ -106,7 +150,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub Issues:** Submit an issue [here](https://github.com/yourusername/Assembly/issues).
+- **GitHub Issues:** Submit an issue [here](https://github.com/ByteBard7881/Assembly/issues).
 - **Email:** adityaps2004@gmail.com
 
 ---
