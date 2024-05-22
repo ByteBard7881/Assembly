@@ -85,7 +85,7 @@ This repository includes various examples demonstrating different aspects of Ass
 - **Loops and Conditionals:** Implementation of loops and conditional statements.
 - **System Calls:** Using system calls for input/output operations.
 
-Each example is located in its respective directory with detailed comments explaining the code.
+Each example is located in Code Directory.
 
 ## Directory Structure
 
